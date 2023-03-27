@@ -1,0 +1,21 @@
+# made by Amir
+# 15-jan-2020
+# Part of the preterm data that were used initially by Ninah, then Ofelie, Mario, Amir, Kirubin, Tim. for different problems: maturation, sleep
+# According to the Ofelie's corrections (excel file)
+# the training data used in A. Ansari, et al., Quiet sleep detection in preterm..., 2018 (CNN v1)
+# the training data (90%) used in A. Dereymaeker, et al., An Automated Quiet Sleep Detection Approach ..., 2018 (CLASS)
+# the training data (90%) used in K. Pillay, et al., Automated EEG sleep staging ..., 2018 (HMM, GMM)
+# the training data used in A. Ansari, et al., A convolutional neural network outperforming ..., 2019 (CNN v2)
+pt18
+pt32
+pt33
+pt34
+pt37
+pt38
+pt44
+pt79
+pt88
+pt90
+pt133
+pt171
+pt174

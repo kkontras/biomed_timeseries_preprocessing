@@ -1,0 +1,11 @@
+{
+"Background": "no_label",
+"Sleep stage ?": "no_label",
+"Sleep stage W": 0,
+"Sleep stage 1": 1,
+"Sleep stage 2": 2,
+"Sleep stage 3": 3,
+"Movement time": "no_label",
+"Sleep stage 4": 3,
+"Sleep stage R": 4
+}

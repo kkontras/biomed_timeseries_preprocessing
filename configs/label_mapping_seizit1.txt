@@ -1,0 +1,12 @@
+{
+"Background": 0,
+"Non-Seizure": 0,
+"FIA": 1,
+"SP": 1,
+"FA": 1,
+"REM sleep|5": 4,
+"Wake|0": 0,
+"Unscored|9": "no_label",
+"Movement|6": "no_label",
+"Movement time": "no_label"
+}

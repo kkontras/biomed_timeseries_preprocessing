@@ -1,0 +1,12 @@
+{
+"Background": 0,
+"ASI": 0,
+"HVS": 0,
+"Undetermined": "no_label",
+"TA": 0,
+"LVI": 0,
+"Artifact": "no_label",
+"None": "no_label",
+"QS": 1,
+"Wake": 0
+}

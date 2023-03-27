@@ -1,0 +1,4 @@
+{
+"train_patients":[ "pt18", "pt32", "pt33", "pt34", "pt37", "pt38", "pt44", "pt79", "pt88", "pt90", "pt133", "pt171", "pt174"],
+"test_patients":[ "pt19", "pt22", "pt35", "pt40", "pt56", "pt57", "pt60", "pt72", "pt75", "pt78", "pt106", "pt159", "pt160"]
+}

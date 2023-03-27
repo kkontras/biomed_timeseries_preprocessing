@@ -1,0 +1,12 @@
+{
+"Background": "no_label",
+"Stage 1 sleep|1": 1,
+"Stage 2 sleep|2": 2,
+"Stage 3 sleep|3": 3,
+"Stage 4 sleep|4": 3,
+"REM sleep|5": 4,
+"Wake|0": 0,
+"Unscored|9": "no_label",
+"Movement|6": "no_label",
+"Movement time": "no_label"
+}
